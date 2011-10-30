@@ -20,7 +20,7 @@ public class ArrayDemo1 {
 		myarray[4] = 50;
 		myarray[5] = 60;
 		
-		//assignment: print the values of each array index using 6 System.out.println statments.
+		//assignment: print the values of each array index using 6 System.out.println statements.
 		
 		
 
